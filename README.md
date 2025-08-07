@@ -37,7 +37,7 @@ sec.style.transform = `rotate(${srot}deg)`;
 - ```index.html``` – Main HTML structure for the clock.
 - ```stye.css```– Styling file for clock visuals and layout.
 - ```script.js``` – JavaScript logic for time display and animations.
-- ```LICENCE``` - MIT Licence
+- ```LICENSE``` - MIT License
 
   
 ## 🚀 How to Run
