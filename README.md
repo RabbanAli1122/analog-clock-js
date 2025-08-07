@@ -50,8 +50,7 @@ cd analog-clock-ui
 
 ## 🌐 Live Demo
 Check the live demo(github pages) here:  
-https://rabbanali1122.github.io/Analog_Clock/
-
+https://rabbanali1122.github.io/analog-clock-js/
 
 ## 🖼️ Screenshot
 ### Clock UI
